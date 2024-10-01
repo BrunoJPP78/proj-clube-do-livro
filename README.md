@@ -5,7 +5,8 @@
 <p>API RESTful em spring boot que contém um CRUD completo, seguindo as convenções de uma API RESTful</p>
 
 <h3>A API contém um CRUD das seguintes entidades:</h3>
-<li>
-  <lu>Usuários</lu>
-  <lu>Livros</lu>
-</li>
+<ul>
+  <li>Usuários</li>
+  <li>Livros</li>
+</ul>
+
